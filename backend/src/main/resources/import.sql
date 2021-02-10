@@ -1,0 +1,16 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Carlos Pereira', '01493682679', 2000, TIMESTAMP WITH TIME ZONE '2020-07-21T20:59:19Z', 0);
